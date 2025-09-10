@@ -66,7 +66,7 @@ def predict_sentiment(text):
     return prediction[0]
 
 # Example usage
-example_text = "I love this product! It's absolutely wonderful."
+example_text = "I hate u"
 predicted_sentiment = predict_sentiment(example_text)
 print(f"Predicted sentiment for the example text: {predicted_sentiment}")
 

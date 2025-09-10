@@ -3,3 +3,5 @@ pandas
 scikit-learn
 joblib
 google-generativeai
+langchain_community 
+langchain
